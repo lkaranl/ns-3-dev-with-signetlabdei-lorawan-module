@@ -62,6 +62,13 @@ The module includes the following examples:
 - `complete-lorawan-network-example`
 - `network-server-example`
 
+- `src/lorawan/examples/simple-network-example`
+- `src/lorawan/examples/network-server-example`
+- `src/lorawan/examples/complete-network-example`
+- `src/lorawan/examples/energy-model-example`
+
+
+
 Examples can be run via the `./waf --run example-name` command.
 
 ## Contributing ##
